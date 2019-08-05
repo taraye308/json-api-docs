@@ -1,4 +1,12 @@
 {
+  "calc-type": "seller-est-commission",
+  "module": "TQM",
+  "seller-profile-id": 1234,
+  "plan-details": {
+    "ptd-ach-amt": 500,
+    "comm-effc-month": "06",
+    "comm-effc-year": 2019,
+    "cycle": "2H",
     "meas-details": [
     	{
        		"sp-ie-id": 1111,
@@ -13,4 +21,5 @@
     		"meas-set-id": 123
 		}
     ]
+  }
 }
